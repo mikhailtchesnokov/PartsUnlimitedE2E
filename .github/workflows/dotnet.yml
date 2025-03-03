@@ -1,6 +1,6 @@
 name: .NET
 
-on: workflow_dispath
+on: workflow_dispatch
 
 jobs:
   my-job:
